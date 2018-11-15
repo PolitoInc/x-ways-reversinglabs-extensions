@@ -3,7 +3,7 @@ Home of the ReversingLabs extensions for X-Ways that Polito Inc. developed in pa
 
 ReversingLabs hash query and file submission extensions for X-Ways Forensics platform. Requires ReversingLabs API credentials.
 
-Please see our blog post for detailed instructions about how to use this ReversingLabs plugin with Autopsy 4.x: https://www.politoinc.com/single-post/2018/11/15/Enhancing-Digital-Forensics-with-ReversingLabs-Plugins-Now-for-X-Ways. It has been tested on X-Ways versions 19.3, 19.6, and 19.7.
+Please see our blog post for detailed instructions about how to use this ReversingLabs plugin with Autopsy 4.x: https://www.politoinc.com/single-post/2018/11/15/Enhancing-Digital-Forensics-with-ReversingLabs-Plugins-Now-for-X-Ways. It has been tested on X-Ways versions 19.3, 19.6, and 19.7 (64-bit only).
 
 Feel free to open an issue in GitHub or contact us if you encounter any issues or want to suggest a feature. We will do our best to respond in a timely manner.
 
