@@ -8,7 +8,8 @@ Please see our blog post for detailed instructions about how to use this Reversi
 Feel free to open an issue in GitHub or contact us if you encounter any issues or want to suggest a feature. We will do our best to respond in a timely manner.
 
 ## License
-Polito Inc. is providing the ReversingLabs hash query and file submission extensions ("this Software") for free for the benefit of the Digital Forensics community. This Software is provided "as is", without any warranty of any kind, express or implied. You may copy, distribute, and use this Software without charge for commercial or non-commercial purposes, provided that you give full credit to its source and you do not sell, rent, or lease it; do not reverse engineer, decompile, or dissassmeble it; and do not use it for any illegal purpose. While we are unable to provide support for this Software, feel free to contact us at <b>info(at)politoinc.com</b> with any bug reports or feature requests.
+Polito Inc. is providing the ReversingLabs hash query and file submission extensions ("this Software") for free for the benefit of the Digital Forensics community. This Software is provided "as is", without any warranty of any kind, express or implied. You may copy, distribute, and use this Software without charge for commercial or non-commercial purposes, provided that you give full credit to its source and you do not sell, rent, or lease it; do not reverse engineer, decompile, or dissassmeble it; and do not use it for any illegal purpose. While we are unable to provide support for this Software, feel free to contact us at  <b>info(at)politoinc.com</b>  with any bug reports or feature requests.
 <p>Hashes of the files : 
-<p>MD5             803D88B9DC4E33956B55B12C127BAE03 RL_GetFileReputation.dll
-<p>MD5             52DB03D7D2AA6EA26060FF58921560CF RL_SubmitFile.dll
+
+<p>  MD5             9A02B3E3CE85ED00F76EE80FA2C8EB80           RL_GetFileReputation.dll
+<p>  MD5             FE8C62436E2E8B534C5E3EFE0FB29B4F           RL_SubmitFile.dll
